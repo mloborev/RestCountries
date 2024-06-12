@@ -1,0 +1,198 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\maxim\\source\\repos\\RestCountries\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{36E59559-E657-4948-B00E-DBD40F203D37}|RestCountries\\RestCountries.csproj|c:\\users\\maxim\\source\\repos\\restcountries\\restcountries\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36E59559-E657-4948-B00E-DBD40F203D37}|RestCountries\\RestCountries.csproj|solutionrelative:restcountries\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36E59559-E657-4948-B00E-DBD40F203D37}|RestCountries\\RestCountries.csproj|c:\\users\\maxim\\source\\repos\\restcountries\\restcountries\\controllers\\countriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36E59559-E657-4948-B00E-DBD40F203D37}|RestCountries\\RestCountries.csproj|solutionrelative:restcountries\\controllers\\countriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36E59559-E657-4948-B00E-DBD40F203D37}|RestCountries\\RestCountries.csproj|c:\\users\\maxim\\source\\repos\\restcountries\\restcountries\\models\\viewmodels\\countrydetailsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36E59559-E657-4948-B00E-DBD40F203D37}|RestCountries\\RestCountries.csproj|solutionrelative:restcountries\\models\\viewmodels\\countrydetailsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36E59559-E657-4948-B00E-DBD40F203D37}|RestCountries\\RestCountries.csproj|c:\\users\\maxim\\source\\repos\\restcountries\\restcountries\\models\\viewmodels\\allcountriesviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36E59559-E657-4948-B00E-DBD40F203D37}|RestCountries\\RestCountries.csproj|solutionrelative:restcountries\\models\\viewmodels\\allcountriesviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36E59559-E657-4948-B00E-DBD40F203D37}|RestCountries\\RestCountries.csproj|c:\\users\\maxim\\source\\repos\\restcountries\\restcountries\\models\\countrydetailsmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36E59559-E657-4948-B00E-DBD40F203D37}|RestCountries\\RestCountries.csproj|solutionrelative:restcountries\\models\\countrydetailsmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36E59559-E657-4948-B00E-DBD40F203D37}|RestCountries\\RestCountries.csproj|c:\\users\\maxim\\source\\repos\\restcountries\\restcountries\\models\\countrymodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36E59559-E657-4948-B00E-DBD40F203D37}|RestCountries\\RestCountries.csproj|solutionrelative:restcountries\\models\\countrymodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36E59559-E657-4948-B00E-DBD40F203D37}|RestCountries\\RestCountries.csproj|c:\\users\\maxim\\source\\repos\\restcountries\\restcountries\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{36E59559-E657-4948-B00E-DBD40F203D37}|RestCountries\\RestCountries.csproj|solutionrelative:restcountries\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36E59559-E657-4948-B00E-DBD40F203D37}|RestCountries\\RestCountries.csproj|c:\\users\\maxim\\source\\repos\\restcountries\\restcountries\\models\\countrydataapimodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36E59559-E657-4948-B00E-DBD40F203D37}|RestCountries\\RestCountries.csproj|solutionrelative:restcountries\\models\\countrydataapimodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36E59559-E657-4948-B00E-DBD40F203D37}|RestCountries\\RestCountries.csproj|c:\\users\\maxim\\source\\repos\\restcountries\\restcountries\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{36E59559-E657-4948-B00E-DBD40F203D37}|RestCountries\\RestCountries.csproj|solutionrelative:restcountries\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36E59559-E657-4948-B00E-DBD40F203D37}|RestCountries\\RestCountries.csproj|c:\\users\\maxim\\source\\repos\\restcountries\\restcountries\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{36E59559-E657-4948-B00E-DBD40F203D37}|RestCountries\\RestCountries.csproj|solutionrelative:restcountries\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CountryDetailsViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\maxim\\source\\repos\\RestCountries\\RestCountries\\Models\\ViewModels\\CountryDetailsViewModel.cs",
+              "RelativeDocumentMoniker": "RestCountries\\Models\\ViewModels\\CountryDetailsViewModel.cs",
+              "ToolTip": "C:\\Users\\maxim\\source\\repos\\RestCountries\\RestCountries\\Models\\ViewModels\\CountryDetailsViewModel.cs",
+              "RelativeToolTip": "RestCountries\\Models\\ViewModels\\CountryDetailsViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T14:24:12.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AllCountriesViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\maxim\\source\\repos\\RestCountries\\RestCountries\\Models\\ViewModels\\AllCountriesViewModel.cs",
+              "RelativeDocumentMoniker": "RestCountries\\Models\\ViewModels\\AllCountriesViewModel.cs",
+              "ToolTip": "C:\\Users\\maxim\\source\\repos\\RestCountries\\RestCountries\\Models\\ViewModels\\AllCountriesViewModel.cs",
+              "RelativeToolTip": "RestCountries\\Models\\ViewModels\\AllCountriesViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T13:58:15.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CountryDataApiModel.cs",
+              "DocumentMoniker": "C:\\Users\\maxim\\source\\repos\\RestCountries\\RestCountries\\Models\\CountryDataApiModel.cs",
+              "RelativeDocumentMoniker": "RestCountries\\Models\\CountryDataApiModel.cs",
+              "ToolTip": "C:\\Users\\maxim\\source\\repos\\RestCountries\\RestCountries\\Models\\CountryDataApiModel.cs",
+              "RelativeToolTip": "RestCountries\\Models\\CountryDataApiModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T12:37:13.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CountryDetailsModel.cs",
+              "DocumentMoniker": "C:\\Users\\maxim\\source\\repos\\RestCountries\\RestCountries\\Models\\CountryDetailsModel.cs",
+              "RelativeDocumentMoniker": "RestCountries\\Models\\CountryDetailsModel.cs",
+              "ToolTip": "C:\\Users\\maxim\\source\\repos\\RestCountries\\RestCountries\\Models\\CountryDetailsModel.cs",
+              "RelativeToolTip": "RestCountries\\Models\\CountryDetailsModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T10:46:41.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CountryModel.cs",
+              "DocumentMoniker": "C:\\Users\\maxim\\source\\repos\\RestCountries\\RestCountries\\Models\\CountryModel.cs",
+              "RelativeDocumentMoniker": "RestCountries\\Models\\CountryModel.cs",
+              "ToolTip": "C:\\Users\\maxim\\source\\repos\\RestCountries\\RestCountries\\Models\\CountryModel.cs",
+              "RelativeToolTip": "RestCountries\\Models\\CountryModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T10:45:25.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CountriesController.cs",
+              "DocumentMoniker": "C:\\Users\\maxim\\source\\repos\\RestCountries\\RestCountries\\Controllers\\CountriesController.cs",
+              "RelativeDocumentMoniker": "RestCountries\\Controllers\\CountriesController.cs",
+              "ToolTip": "C:\\Users\\maxim\\source\\repos\\RestCountries\\RestCountries\\Controllers\\CountriesController.cs",
+              "RelativeToolTip": "RestCountries\\Controllers\\CountriesController.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAIwD8AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T10:43:41.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\maxim\\source\\repos\\RestCountries\\RestCountries\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "RestCountries\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\maxim\\source\\repos\\RestCountries\\RestCountries\\Properties\\launchSettings.json",
+              "RelativeToolTip": "RestCountries\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-12T10:42:23.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\maxim\\source\\repos\\RestCountries\\RestCountries\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "RestCountries\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\maxim\\source\\repos\\RestCountries\\RestCountries\\appsettings.Development.json",
+              "RelativeToolTip": "RestCountries\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-12T10:40:53.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\maxim\\source\\repos\\RestCountries\\RestCountries\\appsettings.json",
+              "RelativeDocumentMoniker": "RestCountries\\appsettings.json",
+              "ToolTip": "C:\\Users\\maxim\\source\\repos\\RestCountries\\RestCountries\\appsettings.json",
+              "RelativeToolTip": "RestCountries\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-12T10:40:50.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\maxim\\source\\repos\\RestCountries\\RestCountries\\Program.cs",
+              "RelativeDocumentMoniker": "RestCountries\\Program.cs",
+              "ToolTip": "C:\\Users\\maxim\\source\\repos\\RestCountries\\RestCountries\\Program.cs",
+              "RelativeToolTip": "RestCountries\\Program.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAwwBoAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T10:40:38.861Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

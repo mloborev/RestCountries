@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "xvfcW1rutFHqdKlmEAkJK5FN1JWFsrT0tArUS8QEOrs=",
+  "Source": "RestCountries",
+  "BasePath": "_content/RestCountries",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
